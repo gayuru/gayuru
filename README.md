@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi there ツ It's Gayuru 
     <br>I am striving to help humans
-      <br>be the best version of ourselves 
+      <br>be the best version of themselves 
     <br>through  <em>design</em> & <em> code </em> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
     <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:hello@gayurug.com?subject=Let's Build Together">hello@gayurug.com</a>
