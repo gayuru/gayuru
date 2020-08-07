@@ -10,5 +10,9 @@
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:hello@gayurug.com?subject=Let's Build Together">hello@gayurug.com</a>
     <br><br><em>also.. new portfolio coming soon</em>
   </samp>
-  <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">
+  <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
+  <samp>
+  <br><em>but until then checkout my blogs</em>
+     <br><br>🦦 <a href="https://blog.gayurug.com">blog.gayurug.com</a> 🦕
+  </samp>
 </p>
