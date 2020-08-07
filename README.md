@@ -13,6 +13,6 @@
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
   <samp>
   <br><em>but until then checkout my blogs</em>
-     <br><br>🦦 <a href="https://blog.gayurug.com">blog.gayurug.com</a> 🦕
+     <br>🦦 <a href="https://blog.gayurug.com">blog.gayurug.com</a> 🦕
   </samp>
 </p>
