@@ -14,5 +14,6 @@
   <samp>
   <br><em>but until then checkout my blogs</em>
      <br><img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://gayuru.tech">gayuru.tech</a> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
+    ![](https://komarev.com/ghpvc/?username=gayuru&color=green)
   </samp>
 </p>
